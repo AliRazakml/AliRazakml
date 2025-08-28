@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React Native, App Store Connect, Google Play Console, ReactJs, Angular, Javascript, Typescript, ASP.Net core**
 
-- 📫 How to reach me **alirk242@gmail.com OR +923485925257**
+- 📫 How to reach me **alirazakml708@gmail.com OR +923485925257**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
